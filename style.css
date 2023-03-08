@@ -1,0 +1,23 @@
+body{
+    background-image:url("https://w0.peakpx.com/wallpaper/27/540/HD-wallpaper-cristiano-ronaldo-juventus-fc-champions-league-football-stone-gray-background-cr7-champions-league-ball.jpg") ;
+}
+.intro{
+    display: flex;
+    background-image:url("https://s1.static.brasilescola.uol.com.br/be/conteudo/images/a-taca-copa-mundo-possui-ouro-18-k-5b4891c8d1d6d.jpg");
+height: 150px;
+margin: bottom 20px; ;
+}
+.intro2{
+    margin-left: 300px;
+}
+.jogo{
+    background-color: brown;
+    border-radius: 20px;
+}
+.jogo:hover{
+    background-color: ivory;
+}
+.jogomae{
+    display: flex;
+    justify-content: space-between;
+}
